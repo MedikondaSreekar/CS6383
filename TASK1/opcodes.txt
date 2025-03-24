@@ -1,0 +1,7 @@
+aload_0
+invokespecial
+return
+getstatic
+ldc
+invokevirtual
+return
